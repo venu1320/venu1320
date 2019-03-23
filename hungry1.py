@@ -5,4 +5,4 @@ else:
 thirsty=input_"are you thirsty?")
 if thirsty=="yes":
 print("drink water")
-printf("do your home work")
+print"drink soda")
